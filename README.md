@@ -21,7 +21,7 @@ Tools/languages I am using, mostly on MacOS or Ubuntu Linux:
 - MongoDB
 - ZeroMQ
 - MQTT and Mosquitto
-- TensorRT, TensorFlow Lite on NVIDIS TX2/nano
+- TensorRT, TensorFlow Lite on NVIDIA TX2/nano
 
 If you are interested in cross-compilation for ARM devices, have a look at my [Xtemplate](https://github.com/pbosetti/xtemplate).
 
